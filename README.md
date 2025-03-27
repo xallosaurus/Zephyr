@@ -1,4 +1,4 @@
-# Zephyr
+# Zephyr - wind tunnel model
 
 The repo for the wind tunnel project.
 
